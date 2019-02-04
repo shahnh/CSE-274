@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;bag&apos; in &apos;SetTester.main(...)&apos; to &apos;bag1&apos;&#x0D;&#x0A;- Original project: &apos;Project02&apos;&#x0D;&#x0A;- Original element: &apos;SetTester.main(String[]).bag&apos;&#x0D;&#x0A;- Renamed element: &apos;bag&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;bag&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{SetTester.java[SetTester~main~\[QString;@bag!99!146!117!119!QResizableArraySet;!0!false" name="bag1" references="true" stamp="1537151318535" version="1.0"/>
+</session>

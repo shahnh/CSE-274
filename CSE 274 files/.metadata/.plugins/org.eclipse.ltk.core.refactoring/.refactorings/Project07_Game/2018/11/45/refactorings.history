@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;Game.bestMove(...)&apos; to &apos;getBestMove&apos;&#x0D;&#x0A;- Original project: &apos;Project07_Game&apos;&#x0D;&#x0A;- Original element: &apos;Game.bestMove(...)&apos;&#x0D;&#x0A;- Renamed element: &apos;Game.getBestMove(...)&apos;&#x0D;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;bestMove&apos;" flags="589826" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;{Game.java[Game~bestMove~QBoard;" name="getBestMove" references="true" stamp="1541818892983" version="1.0"/>
+</session>
